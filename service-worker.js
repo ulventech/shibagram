@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/shibagram/precache-manifest.6f0b29bae1bd03ecdf7b3b22b3a1afe0.js"
+  "/shibagram/precache-manifest.54d6591196ee5943fbe54bac755e8b6c.js"
 );
 
 workbox.clientsClaim();
